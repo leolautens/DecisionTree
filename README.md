@@ -1,5 +1,5 @@
 # DecisionTree
- **Project developed in the Data Structure class module 2.**
+ **Project developed in the Data Structure Class module 2.**
  
  **Binary Search Tree & Decision game**
  
